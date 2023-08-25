@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "标签管理",
+  "usingComponents": {
+    "goods-tag": "/pages/goods/label/goods_tag",
+    "serve-tag": "/pages/goods/label/serve_tag"
+  }
+}

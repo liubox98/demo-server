@@ -1,0 +1,1 @@
+<view class="dflex _div"><block wx:for="{{scope.row.review_imgs}}" wx:for-item="item" wx:for-index="i" wx:key="i"><view class="margin_r_10 _div"><el-image style="width:100px;height:80px;" vue-id="{{'e638210a-9-'+i}}" preview-src-list="{{scope.row.review_imgs}}" src="{{item}}" fit="contain" bind:__l="__l"></el-image></view></block></view>

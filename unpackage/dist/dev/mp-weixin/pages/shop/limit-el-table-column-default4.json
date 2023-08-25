@@ -1,0 +1,14 @@
+{
+  "component": true,
+  "usingComponents": {
+    "limit-el-table-column-default": "/pages/shop/limit-el-table-column-default",
+    "limit-el-table-column-default1": "/pages/shop/limit-el-table-column-default1",
+    "limit-el-table-column-default2": "/pages/shop/limit-el-table-column-default2",
+    "limit-el-table-column-default3": "/pages/shop/limit-el-table-column-default3",
+    "limit-el-table-column-default4": "/pages/shop/limit-el-table-column-default4",
+    "limit-el-table-column-default5": "/pages/shop/limit-el-table-column-default5",
+    "use-table": "/components/use-table/use-table",
+    "v-countup": "/node-modules/vue-countupjs/dist/vue-countup.min",
+    "popups-goods": "/components/popups_goods"
+  }
+}

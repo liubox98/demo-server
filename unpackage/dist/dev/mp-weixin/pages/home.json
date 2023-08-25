@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "系统首页",
+  "usingComponents": {
+    "v-countup": "/node-modules/vue-countupjs/dist/vue-countup.min"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "搜索管理",
+  "usingComponents": {
+    "list": "/pages/shop/search/list",
+    "hot": "/pages/shop/search/hot"
+  }
+}

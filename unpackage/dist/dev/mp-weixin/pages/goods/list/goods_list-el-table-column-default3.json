@@ -1,0 +1,14 @@
+{
+  "component": true,
+  "usingComponents": {
+    "goods_list-el-table-column-default": "/pages/goods/list/goods_list-el-table-column-default",
+    "goods_list-el-table-column-default1": "/pages/goods/list/goods_list-el-table-column-default1",
+    "goods_list-el-table-column-default2": "/pages/goods/list/goods_list-el-table-column-default2",
+    "goods_list-el-table-column-default3": "/pages/goods/list/goods_list-el-table-column-default3",
+    "goods_list-el-table-column-default4": "/pages/goods/list/goods_list-el-table-column-default4",
+    "goods_list-el-table-column-default5": "/pages/goods/list/goods_list-el-table-column-default5",
+    "goods_list-el-table-column-default6": "/pages/goods/list/goods_list-el-table-column-default6",
+    "use-table": "/components/use-table/use-table",
+    "v-countup": "/node-modules/vue-countupjs/dist/vue-countup.min"
+  }
+}

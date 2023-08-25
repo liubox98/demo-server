@@ -1,0 +1,37 @@
+
+.left_content,
+.right_content {
+	background-color: #fff;
+	height: 200px;
+	border-radius: 10px;
+}
+.detail_left {
+	margin: 0 80px 0 0;
+}
+.detail_title {
+	color: #8a8a8a;
+	width: 8.125rem;
+}
+.order {
+	margin-left: 80px;
+}
+.circle_txt {
+	font-size: 24px;
+	color: #fff;
+	width: 56px;
+	height: 56px;
+	border-radius: 50%;
+	background-color: #ff6b6b;
+}
+.order_title {
+	font-size: 14px;
+}
+.order_data {
+	font-size: 28px;
+}
+.detail .btn {
+	transform: translate(-0, -50%);
+	top: 50%;
+	right: 0;
+}
+

@@ -1,0 +1,9 @@
+
+.theme_color:hover {
+	text-decoration: underline;
+}
+.add_edit .el-input,
+.add_edit .el-textarea {
+	width: 90%;
+}
+

@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "basic": "/pages/goods/list/basic",
+    "detail": "/pages/goods/list/detail",
+    "sku": "/pages/goods/list/sku",
+    "share-set": "/pages/goods/list/share_set"
+  }
+}

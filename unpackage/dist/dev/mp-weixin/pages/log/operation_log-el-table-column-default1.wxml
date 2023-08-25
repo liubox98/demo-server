@@ -1,0 +1,1 @@
+<view class="_div">{{scope.row.state=='1'?'成功':'失败'}}</view>

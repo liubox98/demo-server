@@ -1,0 +1,1 @@
+<view class="left_just _div"><view class="_div">{{"已售数:"+scope.row.sale_cnt}}</view><view class="_div">{{"访问数:"+scope.row.visit_cnt}}</view><view class="_div">{{"收藏数:"+scope.row.collect_cnt}}</view><view class="_div">{{"分享数:"+scope.row.share_cnt}}</view></view>

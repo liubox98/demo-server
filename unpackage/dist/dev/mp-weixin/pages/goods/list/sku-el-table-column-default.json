@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "sku-el-table-column-default": "/pages/goods/list/sku-el-table-column-default",
+    "sku-el-table-column-default1": "/pages/goods/list/sku-el-table-column-default1"
+  }
+}

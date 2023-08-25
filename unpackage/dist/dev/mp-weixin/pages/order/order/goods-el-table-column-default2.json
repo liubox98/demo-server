@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "goods-el-table-column-default": "/pages/order/order/goods-el-table-column-default",
+    "goods-el-table-column-default1": "/pages/order/order/goods-el-table-column-default1",
+    "goods-el-table-column-default2": "/pages/order/order/goods-el-table-column-default2"
+  }
+}

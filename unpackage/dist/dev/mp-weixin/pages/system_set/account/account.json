@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "账号管理",
+  "usingComponents": {
+    "account-el-table-column-default": "/pages/system_set/account/account-el-table-column-default",
+    "account-el-table-column-default1": "/pages/system_set/account/account-el-table-column-default1",
+    "account-el-table-column-default2": "/pages/system_set/account/account-el-table-column-default2",
+    "use-table": "/components/use-table/use-table"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "footprint-el-table-column-default": "/pages/member/list/footprint-el-table-column-default",
+    "footprint-el-table-column-default1": "/pages/member/list/footprint-el-table-column-default1",
+    "use-table": "/components/use-table/use-table"
+  }
+}

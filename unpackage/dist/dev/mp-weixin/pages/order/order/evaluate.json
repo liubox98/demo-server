@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "evaluate-el-table-column-default": "/pages/order/order/evaluate-el-table-column-default",
+    "evaluate-el-table-column-default1": "/pages/order/order/evaluate-el-table-column-default1"
+  },
+  "component": true
+}

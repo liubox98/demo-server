@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "use-table": "/components/use-table/use-table"
+  }
+}

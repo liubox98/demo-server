@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "会员列表",
+  "usingComponents": {
+    "member_list-el-table-column-default": "/pages/member/list/member_list-el-table-column-default",
+    "member_list-el-table-column-default1": "/pages/member/list/member_list-el-table-column-default1",
+    "use-table": "/components/use-table/use-table"
+  }
+}

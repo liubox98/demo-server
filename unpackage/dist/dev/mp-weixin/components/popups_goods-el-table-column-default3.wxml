@@ -1,0 +1,1 @@
+<block wx:for="{{scope.row.tags}}" wx:for-item="item" wx:for-index="i" wx:key="i"><el-tag class="margin_r_5 margin_t_5" vue-id="{{'32132be6-11-'+i}}" effect="plain" type="info" bind:__l="__l" vue-slots="{{['default']}}">{{item}}</el-tag></block>

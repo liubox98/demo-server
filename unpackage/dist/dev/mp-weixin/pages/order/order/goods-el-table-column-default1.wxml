@@ -1,0 +1,1 @@
+<view class="dflex_c _div">{{scope.row.goods_sku_name}}</view>

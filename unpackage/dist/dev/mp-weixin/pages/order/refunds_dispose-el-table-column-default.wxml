@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['toOrderDetail',['$0'],['scope.row.order_id']]]]]}}" class="theme_color crpr _div" bindtap="__e">{{scope.row.order_id}}</view>

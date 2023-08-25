@@ -1,0 +1,19 @@
+
+.member_order .badge_txt {
+	background-color: #fff;
+}
+.member_order .badge_txt:hover {
+	background-color: #fff !important;
+}
+.order_detail {
+	background-color: #f6f6f6;
+}
+.order_detail:last-child {
+	border: 0;
+	padding: 0;
+	margin: 0;
+}
+.order_detail_right {
+	height: 6.25rem;
+}
+

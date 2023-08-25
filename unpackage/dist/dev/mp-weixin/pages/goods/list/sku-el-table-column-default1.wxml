@@ -1,0 +1,1 @@
+<el-input bind:input="__e" class="sort-container" vue-id="69afd870-15" type="number" value="{{scope.row.stock_num}}" data-event-opts="{{[['^input',[['__set_model',['$0','stock_num','$event',[]],['scope.row']]]]]}}" bind:__l="__l"></el-input>

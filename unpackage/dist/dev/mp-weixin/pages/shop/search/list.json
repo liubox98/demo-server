@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "搜索列表",
+  "usingComponents": {
+    "use-table": "/components/use-table/use-table"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "consignee": "/pages/order/order/consignee",
+    "goods": "/pages/order/order/goods",
+    "log": "/pages/order/order/log",
+    "evaluate": "/pages/order/order/evaluate",
+    "pay": "/pages/order/order/pay"
+  }
+}

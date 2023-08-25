@@ -1,7 +1,7 @@
 <template>
 	<div class="login dflex_c dflex_d_c">
 		<el-image style="width: 50px;height: 50px;" src="/static/img/login_log.jpg" fit="contain"></el-image>
-		<div class="title">用云电商</div>
+		<div class="title">Backstage management</div>
 		<el-form :model="form" :rules="rules" ref="ruleForm" class="login_form">
 			<el-form-item prop="username" ref="username"><el-input v-model="form.username" placeholder="账号" @keyup.enter.native="enter"></el-input></el-form-item>
 			<el-form-item prop="password" ref="password">

@@ -1,0 +1,1 @@
+<view class="_div">{{scope.row.type=='login'?'登录':'退出'}}</view>

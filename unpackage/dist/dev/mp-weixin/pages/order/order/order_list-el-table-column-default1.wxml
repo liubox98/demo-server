@@ -1,0 +1,1 @@
+<view class="dflex_vertical_c _div"><el-image class="headimg_small" vue-id="bf2af3c8-10" src="{{scope.row.order_member_headimg||'/static/img/default.jpg'}}" preview-src-list="{{scope.row.imgs}}" fit="cover" bind:__l="__l"></el-image><view class="margin_l_5 _div">{{scope.row.order_member_name||'用云会员'}}</view></view>

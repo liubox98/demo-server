@@ -1,0 +1,12 @@
+
+.goods_list_add_edit .btn {
+	background-color: #fff;
+	padding-left: 170px;
+	margin-top: -20px;
+	border-radius: 10px;
+	padding-bottom: 42px;
+}
+.goods_list_add_edit .el-tabs__content{
+	transition: all 0.3s ease-in-out;
+}
+

@@ -1,0 +1,5 @@
+
+.add_edit .el-textarea {
+	width: 90%;
+}
+

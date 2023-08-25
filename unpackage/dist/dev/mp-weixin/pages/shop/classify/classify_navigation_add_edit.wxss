@@ -1,0 +1,5 @@
+
+.el-tree.common-tree.el-tree--highlight-current {
+	width: initial !important;
+}
+

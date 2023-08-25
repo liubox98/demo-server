@@ -1,0 +1,1 @@
+<view class="dflex_vertical_c _div"><el-image class="headimg_small" vue-id="8eb47496-8" src="{{scope.row.member_headimg||'/static/img/default.jpg'}}" preview-src-list="{{scope.row.imgs}}" fit="contain" bind:__l="__l"></el-image><view class="margin_l_5 _div">{{scope.row.member_name}}</view></view>

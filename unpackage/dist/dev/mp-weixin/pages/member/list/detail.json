@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "v-countup": "/node-modules/vue-countupjs/dist/vue-countup.min",
+    "order": "/pages/member/list/order",
+    "footprint": "/pages/member/list/footprint",
+    "collect": "/pages/member/list/collect",
+    "consignee-address": "/pages/member/list/consignee_address"
+  }
+}

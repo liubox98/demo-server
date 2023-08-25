@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "热门推荐",
+  "usingComponents": {
+    "hot-el-table-column-default": "/pages/shop/hot-el-table-column-default",
+    "hot-el-table-column-default1": "/pages/shop/hot-el-table-column-default1",
+    "hot-el-table-column-default2": "/pages/shop/hot-el-table-column-default2",
+    "hot-el-table-column-default3": "/pages/shop/hot-el-table-column-default3",
+    "hot-el-table-column-default4": "/pages/shop/hot-el-table-column-default4",
+    "hot-el-table-column-default5": "/pages/shop/hot-el-table-column-default5",
+    "use-table": "/components/use-table/use-table",
+    "v-countup": "/node-modules/vue-countupjs/dist/vue-countup.min",
+    "popups-goods": "/components/popups_goods"
+  }
+}

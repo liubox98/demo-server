@@ -1,0 +1,1 @@
+<view class="left_just _div"><block wx:for="{{scope.row.tags}}" wx:for-item="item" wx:for-index="i" wx:key="i"><el-tag class="margin_t_5 margin_r_5" vue-id="{{'169ce0cb-19-'+i}}" effect="plain" type="info" bind:__l="__l" vue-slots="{{['default']}}">{{item}}</el-tag></block></view>

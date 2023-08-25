@@ -1,0 +1,1 @@
+<el-image style="width:100px;height:80px;" vue-id="5e783070-11" preview-src-list="{{scope.row.imgs}}" src="{{scope.row.img}}" fit="contain" bind:__l="__l"></el-image>

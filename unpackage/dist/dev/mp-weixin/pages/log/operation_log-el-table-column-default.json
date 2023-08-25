@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "operation_log-el-table-column-default": "/pages/log/operation_log-el-table-column-default",
+    "operation_log-el-table-column-default1": "/pages/log/operation_log-el-table-column-default1",
+    "use-table": "/components/use-table/use-table"
+  }
+}

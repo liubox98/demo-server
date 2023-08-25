@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "退款处理",
+  "usingComponents": {
+    "refunds_dispose-el-table-column-default": "/pages/order/refunds_dispose-el-table-column-default",
+    "refunds_dispose-el-table-column-default1": "/pages/order/refunds_dispose-el-table-column-default1",
+    "refunds_dispose-el-table-column-default2": "/pages/order/refunds_dispose-el-table-column-default2",
+    "use-table": "/components/use-table/use-table"
+  }
+}

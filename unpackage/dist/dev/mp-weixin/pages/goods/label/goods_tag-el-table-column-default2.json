@@ -1,0 +1,11 @@
+{
+  "component": true,
+  "usingComponents": {
+    "goods_tag-el-table-column-default": "/pages/goods/label/goods_tag-el-table-column-default",
+    "goods_tag-el-table-column-default1": "/pages/goods/label/goods_tag-el-table-column-default1",
+    "goods_tag-el-table-column-default2": "/pages/goods/label/goods_tag-el-table-column-default2",
+    "goods_tag-el-table-column-default3": "/pages/goods/label/goods_tag-el-table-column-default3",
+    "goods_tag-el-table-column-default4": "/pages/goods/label/goods_tag-el-table-column-default4",
+    "use-table": "/components/use-table/use-table"
+  }
+}

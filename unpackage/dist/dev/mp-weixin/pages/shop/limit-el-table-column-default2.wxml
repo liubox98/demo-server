@@ -1,0 +1,1 @@
+<view class="price _div">{{scope.row.price/100}}</view><view class="m_price _div">{{scope.row.market_price/100}}</view>

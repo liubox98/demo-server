@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "serve_tag-el-table-column-default": "/pages/goods/label/serve_tag-el-table-column-default",
+    "serve_tag-el-table-column-default1": "/pages/goods/label/serve_tag-el-table-column-default1",
+    "serve_tag-el-table-column-default2": "/pages/goods/label/serve_tag-el-table-column-default2",
+    "use-table": "/components/use-table/use-table"
+  }
+}

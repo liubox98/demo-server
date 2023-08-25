@@ -1,0 +1,86 @@
+{
+  "pages": [
+    "pages/home",
+    "pages/login",
+    "pages/error/404",
+    "pages/home"
+  ],
+  "subPackages": [
+    {
+      "root": "pages/shop",
+      "pages": [
+        "home/page",
+        "home/carousel",
+        "home/carousel_add_edit",
+        "classify/classify_navigation",
+        "classify/classify_navigation_add_edit",
+        "limit",
+        "hot",
+        "search/page",
+        "search/list",
+        "search/hot",
+        "search/hot_add_edit"
+      ]
+    },
+    {
+      "root": "pages/goods",
+      "pages": [
+        "list/goods_list",
+        "list/goods_list_add_edit",
+        "list/evaluate_add",
+        "classify/goods_classify",
+        "classify/goods_classify_add_edit",
+        "label/page",
+        "label/goods_tag_add_edit",
+        "label/serve_tag_add_edit",
+        "evaluate"
+      ]
+    },
+    {
+      "root": "pages/order",
+      "pages": [
+        "order/order_list",
+        "order/detail",
+        "refunds_dispose",
+        "deal_set"
+      ]
+    },
+    {
+      "root": "pages/member",
+      "pages": [
+        "list/member_list",
+        "list/detail"
+      ]
+    },
+    {
+      "root": "pages/app",
+      "pages": [
+        "mp/mp_page",
+        "mp/mp_page_add_edit"
+      ]
+    },
+    {
+      "root": "pages/system_set",
+      "pages": [
+        "account/account",
+        "account/account_add_edit",
+        "role/role",
+        "role/role_add_edit"
+      ]
+    },
+    {
+      "root": "pages/log",
+      "pages": [
+        "operation_log"
+      ]
+    }
+  ],
+  "window": {
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "用云电商后台管理系统",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

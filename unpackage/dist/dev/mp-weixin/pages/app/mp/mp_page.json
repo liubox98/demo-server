@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "小程序",
+  "usingComponents": {
+    "mp_page-el-table-column-default": "/pages/app/mp/mp_page-el-table-column-default",
+    "mp_page-el-table-column-default1": "/pages/app/mp/mp_page-el-table-column-default1",
+    "mp_page-el-table-column-default2": "/pages/app/mp/mp_page-el-table-column-default2",
+    "use-table": "/components/use-table/use-table"
+  }
+}

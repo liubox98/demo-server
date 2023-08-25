@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "order_list-el-table-column-default": "/pages/order/order/order_list-el-table-column-default",
+    "order_list-el-table-column-default1": "/pages/order/order/order_list-el-table-column-default1",
+    "order_list-el-table-column-default2": "/pages/order/order/order_list-el-table-column-default2",
+    "use-table": "/components/use-table/use-table",
+    "v-countup": "/node-modules/vue-countupjs/dist/vue-countup.min"
+  }
+}

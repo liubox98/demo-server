@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "role-el-table-column-default": "/pages/system_set/role/role-el-table-column-default",
+    "use-table": "/components/use-table/use-table"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "collect-el-table-column-default": "/pages/member/list/collect-el-table-column-default",
+    "collect-el-table-column-default1": "/pages/member/list/collect-el-table-column-default1",
+    "use-table": "/components/use-table/use-table"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "热门搜索",
+  "usingComponents": {
+    "hot-el-table-column-default": "/pages/shop/search/hot-el-table-column-default",
+    "hot-el-table-column-default1": "/pages/shop/search/hot-el-table-column-default1",
+    "use-table": "/components/use-table/use-table"
+  }
+}

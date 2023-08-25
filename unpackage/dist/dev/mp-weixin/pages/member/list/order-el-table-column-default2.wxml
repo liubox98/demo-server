@@ -1,0 +1,1 @@
+<view class="price _div">{{scope.row.order_total_money/100}}</view>

@@ -1,0 +1,1 @@
+<view class="dflex_vertical_c _div"><el-image style="width:100px;height:80px;" vue-id="32743ce8-4" src="{{scope.row.goods.img}}" preview-src-list="{{scope.row.imgs}}" fit="contain" bind:__l="__l"></el-image><view class="left_just _div"><view class="ellipsis _div">{{scope.row.goods.name}}</view><view class="ellipsis _div">{{scope.row.goods.name_pw}}</view></view></view>

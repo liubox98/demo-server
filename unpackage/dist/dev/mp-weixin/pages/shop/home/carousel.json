@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "轮播图",
+  "usingComponents": {
+    "carousel-el-table-column-default": "/pages/shop/home/carousel-el-table-column-default",
+    "carousel-el-table-column-default1": "/pages/shop/home/carousel-el-table-column-default1",
+    "carousel-el-table-column-default2": "/pages/shop/home/carousel-el-table-column-default2",
+    "carousel-el-table-column-default3": "/pages/shop/home/carousel-el-table-column-default3",
+    "use-table": "/components/use-table/use-table"
+  }
+}
