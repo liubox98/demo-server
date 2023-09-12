@@ -6,7 +6,7 @@
 				<i v-else class="el-icon-s-unfold"></i>
 			</div>
 			<div class="dflex_vertical_c sele_none">
-				<el-link v-if="!false" class="crpr" href="https://www.use-cloud.com" target="_blank">用云电商 v{{ adminVersion }}</el-link>
+				<el-link v-if="!false" class="crpr" href="https://www.use-cloud.com" target="_blank">蜗牛俱乐部 v{{ adminVersion }}</el-link>
 				<div @click="informDrawer = true" class="margin_l_50 crpr">
 					<el-badge :value="informDatas.length"><i class="iconfont icontongzhi"></i></el-badge>
 				</div>
@@ -18,7 +18,7 @@
 							:preview-src-list="user.avatars"
 							fit="cover"
 						></el-image>
-						<div class="margin_l_10">{{ user.username || '用云电商' }}</div>
+						<div class="margin_l_10">{{ user.username || '蜗牛会员' }}</div>
 					</div>
 					<el-dropdown-menu slot="dropdown">
 						<el-dropdown-item class="el-icon-edit-outline dflex" command="pwdChange"><div class="margin_l_5">修改密码</div></el-dropdown-item>
@@ -114,11 +114,11 @@ export default {
 			},
 			informDatas: [
 				{
-					title: '小程序"用云电商"代码发布审核结果',
+					title: '小程序"蜗牛俱乐部"代码发布审核结果',
 					ref: 'read0',
 					read: 0,
 					time: '2020-05-16 00:00',
-					content: '你的小程序"用云电商"，提审时间2020-05-08 21:18:05，版本审核未通过。'
+					content: '你的小程序"蜗牛俱乐部"，提审时间2023-05-08 21:18:05，版本审核未通过。'
 				}
 			]
 		};

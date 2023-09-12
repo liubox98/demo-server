@@ -147,7 +147,7 @@ var _echarts = _interopRequireDefault(__webpack_require__(/*! echarts */ 203));
 var _china = _interopRequireDefault(__webpack_require__(/*! echarts/map/json/china.json */ 739));
 var vCountup = function vCountup() {
   __webpack_require__.e(/*! require.ensure | node-modules/vue-countupjs/dist/vue-countup.min */ "common/vendor").then((function () {
-    return resolve(__webpack_require__(/*! vue-countupjs */ 973));
+    return resolve(__webpack_require__(/*! vue-countupjs */ 1107));
   }).bind(null, __webpack_require__)).catch(__webpack_require__.oe);
 };
 _echarts.default.registerMap('china', _china.default);

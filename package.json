@@ -1,7 +1,7 @@
 {
     "name": "Usecloud.uniCloud.admin.usemall",
     "id": "Usecloud.uniCloud.admin.usemall",
-    "version": "1.0.9",
+    "version": "1.0.0",
     "description": "Usecloud.uniCloud.admin.usemall，是基于uni-app和uniCloud的电商应用后台管理",
     "main": "main.js",
     "scripts": {
